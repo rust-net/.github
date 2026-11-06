@@ -1,1 +1,1 @@
-# rust-net
+# rust-net 👋
